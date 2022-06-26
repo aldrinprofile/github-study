@@ -11,6 +11,6 @@ other heading -----
 other heading =====
 ==============
 
-try to  put a blank lines before....
+try to  put a blank lines 
 # heading 
 .....
