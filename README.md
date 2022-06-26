@@ -16,3 +16,5 @@ try to  put a blank lines
 .....
 
 # Paragraphs
+to create a  paragraph use blank 
+don't use space to create paragraph from start
