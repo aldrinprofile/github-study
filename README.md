@@ -6,5 +6,7 @@ Headings
 ##### heading 5
 ###### heading 6
 
-other heading
+other heading -----
 -------------
+other heading =====
+==============
